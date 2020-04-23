@@ -483,6 +483,9 @@ div.arimolite-main-menu > ul > li.current_page_item > a{
 	color: #111;
 }
 /*----------2.5 Single Post----------*/
+.arimolite-single-post.has-sidebar {
+    padding-right: 50px;
+}
 .post-related .post-title{
 	font-size: 16px;
 }
